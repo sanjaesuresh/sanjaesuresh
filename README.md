@@ -15,8 +15,11 @@
 
 4th-year CS student at **Wilfrid Laurier University** with internships at **Rippling**, **Activision**, **Nokia**, **Canadian Tire**, and **Yamaha**.
 
+I focus on backend systems, distributed architectures, and infrastructure — the kind of work where reliability and scale actually matter. I enjoy thinking through system design tradeoffs and writing clean code that holds up under pressure.
 
-- 🔭 Currently a SWE Intern @ Rippling in SF
+- 🔭 Currently shipping **Employee Workflows** @ Rippling in SF
+- 🌐 Interested in backend, platform, and distributed systems roles
+- 🧠 Always thinking about latency, reliability, and scale
 
 ---
 
@@ -69,14 +72,14 @@ Heuristic A\* search solution to the N-Queens problem using dynamic backtracking
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjaesuresh&theme=tokyonight" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjaesuresh&theme=tokyonight" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaesuresh&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=sanjaesuresh&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjaesuresh&theme=tokyonight" height="165" />
 
 </div>
 
