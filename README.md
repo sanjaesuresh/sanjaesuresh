@@ -69,8 +69,8 @@ Heuristic A\* search solution to the N-Queens problem using dynamic backtracking
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjaesuresh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaesuresh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjaesuresh&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjaesuresh&theme=tokyonight" height="165" />
 
 </div>
 
