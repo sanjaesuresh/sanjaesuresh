@@ -15,11 +15,8 @@
 
 4th-year CS student at **Wilfrid Laurier University** with internships at **Rippling**, **Activision**, **Nokia**, **Canadian Tire**, and **Yamaha**.
 
-I focus on backend systems, distributed architectures, and infrastructure — the kind of work where reliability and scale actually matter. I enjoy thinking through system design tradeoffs and writing clean code that holds up under pressure.
 
-- 🔭 Currently shipping **Employee Workflows** @ Rippling in SF
-- 🌐 Interested in backend, platform, and distributed systems roles
-- 🧠 Always thinking about latency, reliability, and scale
+- 🔭 Currently a SWE Intern @ Rippling in SF
 
 ---
 
