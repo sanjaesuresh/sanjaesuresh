@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6E56CF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sanjae+%F0%9F%91%8B;Software+Engineer+%40+Rippling;Backend+%26+Distributed+Systems;Building+things+that+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6E56CF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sanjae+%F0%9F%91%8B;Software+Engineer;Backend+%26+Distributed+Systems;Building+things+that+scale" alt="Typing SVG" />
 
 <br/>
 
@@ -16,10 +16,6 @@
 4th-year CS student at **Wilfrid Laurier University** with internships at **Rippling**, **Activision**, **Nokia**, **Canadian Tire**, and **Yamaha**.
 
 I focus on backend systems, distributed architectures, and infrastructure — the kind of work where reliability and scale actually matter. I enjoy thinking through system design tradeoffs and writing clean code that holds up under pressure.
-
-- 🔭 Currently shipping **Employee Workflows** @ Rippling in SF
-- 🌐 Interested in backend, platform, and distributed systems roles
-- 🧠 Always thinking about latency, reliability, and scale
 
 ---
 
