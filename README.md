@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-4th-year CS student at **Wilfrid Laurier University** with internships at **Rippling**, **Activision**, **Nokia**, **Canadian Tire**, and **Yamaha**.
+SWE @ Bloomberg.
 
 I'm building some cool things on the side! Check them out below.
 
@@ -43,6 +43,7 @@ I'm building some cool things on the side! Check them out below.
 
 | | Company | Role | Period |
 |---|---|---|---|
+| 💰 | **Bloomberg** | Software Engineer | Sep 2026 - Current |
 | 🏢 | **Rippling** | Software Engineer Intern · Product Engineering | Feb 2026 – May 2026 |
 | 🎮 | **Activision (Demonware)** | Software Engineer Intern · Call of Duty Platform | Sep – Nov 2025 |
 | 📡 | **Nokia** | Data Engineer Intern · Data Engineering Infra | Jan – Aug 2025 |
